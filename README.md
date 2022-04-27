@@ -1,14 +1,12 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Shayem Hossain</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src="https://img.etimg.com/thumb/msid-84146056,width-1200,height-900,imgsize-638053,resizemode-8,quality-100/20210706_developer-economy_01.jpg">
-
+<img align="right" alt="Coding" width="400" src="https://i.gifer.com/Bm7L.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayemhossain&label=Profile%20views&color=0e75b6&style=flat" alt="sayemhossain" /> </p>
 
 - 🌱 I’m currently learning **Express.js with Mongodb**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **React, Javascript**
 
 - 📫 How to reach me **shayem15-12011@diu.edu.bd**
 
@@ -16,6 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://fb.com/ariyan.sayem.1251" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ariyan.sayem.1251" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
