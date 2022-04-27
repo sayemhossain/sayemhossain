@@ -10,11 +10,12 @@
 
 - 📫 How to reach me **shayem15-12011@diu.edu.bd**
 
-- ⚡ Fun fact ** Coding will soon be as important as reading**
+- ⚡ Fun fact **Coding will soon be as important as reading**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/ariyan.sayem.1251" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ariyan.sayem.1251" height="30" width="40" /></a>
+<a href="https://instagram.com/ariyansayem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ariyansayem" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -23,3 +24,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayemhossain&show_icons=true&locale=en&layout=compact" alt="sayemhossain" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sayemhossain&show_icons=true&locale=en" alt="sayemhossain" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sayemhossain&" alt="sayemhossain" /></p>
