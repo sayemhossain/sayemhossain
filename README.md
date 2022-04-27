@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **shayem15-12011@diu.edu.bd**
 
-- ⚡ Fun fact **I am funny :)**
+- ⚡ Fun fact ** Coding will soon be as important as reading**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
