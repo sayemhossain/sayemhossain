@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Shayem Hossain</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAM/coding.gif">
+<img align="right" alt="Coding" width="400" src="https://img.etimg.com/thumb/msid-84146056,width-1200,height-900,imgsize-638053,resizemode-8,quality-100/20210706_developer-economy_01.jpg">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayemhossain&label=Profile%20views&color=0e75b6&style=flat" alt="sayemhossain" /> </p>
