@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shayem Hossain</h1>
-<h4 align="center">A passionate frontend developer from Bangladesh</h4>
+<h4 align="center">A passionate frontend web developer from Bangladesh</h4>
 <p align="left"> I'm a Frontend Web developer who is passionate about making error-free website with 100% client satisfaction. I have a passion for learning and sharing my knowladge with others as publicly as possible. I love to solve real-world problems. I am strategic goal-oriented and always work with and end goal min mind. I pride myself on doing quality work and maintain excellent communication. I enjoy working with React.js.</p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
