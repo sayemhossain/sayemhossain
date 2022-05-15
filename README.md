@@ -38,8 +38,6 @@
 <img align="left" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
 <img  src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 
-<p></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayemhossain&show_icons=true&locale=en&layout=compact" alt="sayemhossain" /> </p>
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sayemhossain&show_icons=true&theme=radical)
 
