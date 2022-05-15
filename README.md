@@ -37,7 +37,8 @@
 <img align="left" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" />
 <img align="left" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" />
-<img align="left" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" />
+<img align="left" src="https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue" />
+<img align="left" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 
 <p></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayemhossain&show_icons=true&locale=en&layout=compact" alt="sayemhossain" /> </p>
