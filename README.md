@@ -20,8 +20,7 @@
 <a href="https://instagram.com/ariyansayem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ariyansayem" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shayem-hossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shayem-hossain" height="30" width="40" /></a>
 </p>
-&nbsp;
-&nbsp;
+
 <h3 align="left">Languages and Tools:</h3>
 <div>
 <img align="left" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
