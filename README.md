@@ -49,6 +49,6 @@
  
 &nbsp;
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sayemhossain&show_icons=true&theme=radical" /></p>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=sayemhossain&show_icons=true&theme=radical" />
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sayemhossain&" alt="sayemhossain" /></p>
