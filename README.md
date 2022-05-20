@@ -3,7 +3,7 @@
 <h4 align="center">A passionate frontend web developer from Bangladesh</h4>
 <p align="center"> I'm a Frontend web developer who is passionate about making error-free website with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic goal-oriented and always work with an end goal in mind. I pride myself on doing quality work and maintain excellent communication. I enjoy working with React.js.</p>
 
-<div align="right" >
+<div display="flex" align-items="center" >
  <div align="left">
 - 🌱 I’m currently learning **Node.js & Express.js**
 
