@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Shayem Hossain</h1>
 <h4 align="center">A passionate frontend web developer from Bangladesh</h4>
 <p align="center"> I'm a Frontend web developer who is passionate about making error-free website with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic goal-oriented and always work with an end goal in mind. I pride myself on doing quality work and maintain excellent communication. I enjoy working with React.js.</p>
-<img align="end" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" width="100" height="100" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayemhossain&label=Profile%20views&color=0e75b6&style=flat" alt="sayemhossain" /> </p>
