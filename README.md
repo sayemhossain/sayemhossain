@@ -5,6 +5,10 @@
 
 <div align="right" >
  <div align="left">
+
+ </div>
+ <img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+</div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayemhossain&label=Profile%20views&color=0e75b6&style=flat" alt="sayemhossain" /> </p>
 
 - 🌱 I’m currently learning **Node.js & Express.js**
@@ -14,9 +18,6 @@
 - 📫 How to reach me **shayem15-12011@diu.edu.bd**
 
 - ⚡ Fun fact **Coding will soon be as important as reading**
- </div>
- <img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
