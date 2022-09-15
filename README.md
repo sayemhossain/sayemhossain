@@ -16,14 +16,14 @@
 - 📫 How to reach me **shayem15-12011@diu.edu.bd**
 
 - ⚡ Fun fact **Coding will soon be as important as reading**
-<hr/>
+
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
 <a href="https://fb.com/ariyan.sayem.1251" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ariyan.sayem.1251" height="30" width="40" /></a>
 <a href="https://instagram.com/ariyansayem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ariyansayem" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shayem-hossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shayem-hossain" height="30" width="40" /></a>
-
+<hr/>
 <h3 align="left">Languages and Tools:</h3>
 
 <img align="left" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
