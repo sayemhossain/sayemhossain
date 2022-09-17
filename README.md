@@ -56,11 +56,10 @@
   <a href="https://github.com/sayemhossain">
    <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=sayemhossain&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayemhossain&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayemhossain&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 
- ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
-  <img src="https://activity-graph.herokuapp.com/graph?username=sayemhossain&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+ <img src="https://activity-graph.herokuapp.com/graph?username=sayemhossain&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
   
