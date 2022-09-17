@@ -60,3 +60,5 @@
 
 
  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
+  <img src="https://activity-graph.herokuapp.com/graph?username=KushalTanna24&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
