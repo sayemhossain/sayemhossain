@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **React, Javascript**
 
-- 📫 How to reach me **shayem15-12011@diu.edu.bd**
+- 📫 How to reach me **shayem@masterkey.tech**
 
 - ⚡ Fun fact **Coding will soon be as important as reading**
 
