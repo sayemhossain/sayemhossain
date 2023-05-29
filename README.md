@@ -1,7 +1,7 @@
 ![MasterHead](https://i0.wp.com/wanderin.dev/wp-content/uploads/2019/12/crop-0-0-1170-390-0-about-cover.png?fit=1170%2C390&ssl=1)
 <h1 align="center">Hi 👋, I'm Shayem Hossain</h1>
 <h4 align="center">A passionate frontend web developer from Bangladesh</h4>
-<p align="center"> I'm a Frontend web developer who is passionate about making error-free website with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic goal-oriented and always work with an end goal in mind. I pride myself on doing quality work and maintain excellent communication. I enjoy working with React.js.</p>
+<p align="center"> Hi, I'm Shayem Hossain, a Software Developer with a passion for building high-performance web applications. With several years of experience in the field, I specialize in using the MERN stack (MongoDB, Express, React, and Node.js) to create scalable, responsive, and feature-rich applications.</p>
 
 
 <img align="right" alt="coding" width="400px" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
