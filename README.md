@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Shayem Hossain</h1>
 <h4 align="center">A passionate Software Engineer from Bangladesh</h4>
-<p align="center"> Hi, I'm Shayem Hossain, a Software Engineer with a passion for building high-performance web applications. With several years of experience in the field, I specialize in using the MERN stack (MongoDB, Express, React, and Node.js) to create scalable, responsive, and feature-rich applications.</p>
+
 
 
 <img align="right" alt="coding" width="400px" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
