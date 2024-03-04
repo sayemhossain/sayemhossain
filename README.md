@@ -20,7 +20,6 @@
 
 <p align="left">
 <a href="https://fb.com/ariyan.sayem.1251" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ariyan.sayem.1251" height="30" width="40" /></a>
-<a href="https://instagram.com/ariyansayem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ariyansayem" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shayem-hossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shayem-hossain" height="30" width="40" /></a>
 <hr/>
 <h3 align="left">Languages and Tools:</h3>
