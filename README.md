@@ -1,4 +1,4 @@
-![MasterHead](https://i0.wp.com/wanderin.dev/wp-content/uploads/2019/12/crop-0-0-1170-390-0-about-cover.png?fit=1170%2C390&ssl=1)
+
 <h1 align="center">Hi 👋, I'm Shayem Hossain</h1>
 <h4 align="center">A passionate Software Engineer from Bangladesh</h4>
 <p align="center"> Hi, I'm Shayem Hossain, a Software Engineer with a passion for building high-performance web applications. With several years of experience in the field, I specialize in using the MERN stack (MongoDB, Express, React, and Node.js) to create scalable, responsive, and feature-rich applications.</p>
