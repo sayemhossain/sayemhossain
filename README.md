@@ -35,9 +35,6 @@ With hands-on experience across the full stack, I enjoy working with modern Java
 
 <!-- GitHub Stats -->
 ### 📊 GitHub Insights
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayemhossain&layout=compact&theme=react&hide_border=true&bg_color=20232a&title_color=61dafb&text_color=ffffff" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sayemhossain&bg_color=20232a&color=61dafb&line=61dafb&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
