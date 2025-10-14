@@ -14,7 +14,10 @@
 ---
 
 <!-- About -->
-### 👨‍💻 About Me <img src="https://komarev.com/ghpvc/?username=sayemhossain&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+<h3>
+  <span>👨‍💻 About Me</span>
+  <img src="https://komarev.com/ghpvc/?username=sayemhossain&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" style="vertical-align: middle; margin-left: 10px;" />
+</h3>
 I'm a passionate **Software Engineer** from **Bangladesh**, dedicated to building fast, scalable, and user-focused digital solutions.  
 With hands-on experience across the full stack, I enjoy working with modern JavaScript technologies and exploring system design and architecture.  
 
