@@ -18,7 +18,7 @@
 I'm a passionate **Software Engineer** from **Bangladesh**, dedicated to building fast, scalable, and user-focused digital solutions.  
 With hands-on experience across the full stack, I enjoy working with modern JavaScript technologies and exploring system design and architecture.  
 
-- 💼 Currently exploring **Microservices, Next.js, and Prisma**  
+- 💼 Currently exploring **Remix** and **Shopify App Development**  
 - 💬 Ask me about **React, TypeScript, Node.js, and JavaScript (ES6+)**  
 - 📫 Reach me at **shayemhossain12011@gmail.com**  
 - ⚡ Fun fact: *Coding will soon be as important as reading.*
