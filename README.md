@@ -18,6 +18,10 @@
 I'm a passionate **Software Engineer** from **Bangladesh**, dedicated to building fast, scalable, and user-focused digital solutions.  
 With hands-on experience across the full stack, I enjoy working with modern JavaScript technologies and exploring system design and architecture.  
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sayemhossain&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
 - 💼 Currently exploring **Remix** and **Shopify App Development**  
 - 💬 Ask me about **React, TypeScript, Node.js, and JavaScript (ES6+)**  
 - 📫 Reach me at **shayemhossain12011@gmail.com**  
