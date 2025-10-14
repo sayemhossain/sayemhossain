@@ -28,7 +28,7 @@ With hands-on experience across the full stack, I enjoy working with modern Java
 <!-- Tech Stack -->
 ### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,remix,typescript,javascript,nodejs,express,mongodb,postgresql,html,css,tailwind,git,vscode,docker" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,remix,typescript,javascript,nodejs,express,mongodb,postgresql,html,css,tailwind,git,vscode,docker" />
   <img src="https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white" alt="Shopify" />
 </p>
 
