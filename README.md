@@ -1,7 +1,7 @@
 <!-- Header -->
 <h1 align="center">Hi 👋, I'm Shayem Hossain</h1>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sayemhossain&bg_color=20232a&color=61dafb&line=61dafb&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
+  <img src="https://komarev.com/ghpvc/?username=sayemhossain&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 <h3 align="center">Software Engineer | Full-Stack Developer | Tech Enthusiast</h3>
 
