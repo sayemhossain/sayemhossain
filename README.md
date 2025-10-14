@@ -14,13 +14,9 @@
 ---
 
 <!-- About -->
-### 👨‍💻 About Me
+### 👨‍💻 About Me <img src="https://komarev.com/ghpvc/?username=sayemhossain&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 I'm a passionate **Software Engineer** from **Bangladesh**, dedicated to building fast, scalable, and user-focused digital solutions.  
 With hands-on experience across the full stack, I enjoy working with modern JavaScript technologies and exploring system design and architecture.  
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sayemhossain&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
 
 - 💼 Currently exploring **Remix** and **Shopify App Development**  
 - 💬 Ask me about **React, TypeScript, Node.js, and JavaScript (ES6+)**  
@@ -44,13 +40,4 @@ With hands-on experience across the full stack, I enjoy working with modern Java
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sayemhossain&bg_color=20232a&color=61dafb&line=61dafb&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
-</p>
-
----
-
-<!-- Quote -->
-<h4 align="center">“Building the future, one line of code at a time.” 🚀</h4>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sayemhossain&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
