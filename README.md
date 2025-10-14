@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **React, Javascript**
 
-- 📫 How to reach me **shayem@echologyx.com**
+- 📫 How to reach me **shayemhossain12011@gmail.com**
 
 - ⚡ Fun fact **Coding will soon be as important as reading**
 
