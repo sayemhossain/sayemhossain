@@ -28,7 +28,7 @@ With hands-on experience across the full stack, I enjoy working with modern Java
 <!-- Tech Stack -->
 ### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,nodejs,express,mongodb,postgresql,html,css,tailwind,git,github,vscode,docker" />
+  <img src="https://skillicons.dev/icons?i=react,remix,typescript,javascript,nodejs,express,shopify,mongodb,postgresql,html,css,tailwind,git,github,vscode,docker" />
 </p>
 
 ---
@@ -36,12 +36,11 @@ With hands-on experience across the full stack, I enjoy working with modern Java
 <!-- GitHub Stats -->
 ### 📊 GitHub Insights
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sayemhossain&show_icons=true&theme=react&hide_border=true&bg_color=20232a&title_color=61dafb&icon_color=61dafb" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=sayemhossain&theme=react&hide_border=true&background=20232a&ring=61dafb&fire=61dafb&currStreakLabel=61dafb" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayemhossain&layout=compact&theme=react&hide_border=true&bg_color=20232a&title_color=61dafb&text_color=ffffff" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayemhossain&layout=compact&theme=react&hide_border=true&bg_color=20232a&title_color=61dafb&text_color=ffffff" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sayemhossain&bg_color=20232a&color=61dafb&line=61dafb&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
 </p>
 
 ---
